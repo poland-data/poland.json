@@ -1,0 +1,1694 @@
+[
+  {
+    "id": "0201",
+    "name": "bolesławiecki",
+    "population": {
+      "total": 90263,
+      "men": 43848,
+      "women": 46415,
+      "urban": 43351,
+      "rural": 46912
+    },
+    "type": null
+  },
+  {
+    "id": "0202",
+    "name": "dzierżoniowski",
+    "population": {
+      "total": 102375,
+      "men": 48777,
+      "women": 53598,
+      "urban": 80720,
+      "rural": 21655
+    },
+    "city": false
+  },
+  {
+    "id": "0203",
+    "name": "głogowski",
+    "population": {
+      "total": 89829,
+      "men": 43714,
+      "women": 46115,
+      "urban": 68114,
+      "rural": 21715
+    },
+    "city": false
+  },
+  {
+    "id": "0204",
+    "name": "górowski",
+    "population": {
+      "total": 35566,
+      "men": 17607,
+      "women": 17959,
+      "urban": 14721,
+      "rural": 20845
+    },
+    "city": false
+  },
+  {
+    "id": "0205",
+    "name": "jaworski",
+    "population": {
+      "total": 51042,
+      "men": 24963,
+      "women": 26079,
+      "urban": 28429,
+      "rural": 22613
+    },
+    "city": false
+  },
+  {
+    "id": "0206",
+    "name": "jeleniogórski",
+    "population": {
+      "total": 64280,
+      "men": 31050,
+      "women": 33230,
+      "urban": 28822,
+      "rural": 35458
+    },
+    "city": false
+  },
+  {
+    "id": "0207",
+    "name": "kamiennogórski",
+    "population": {
+      "total": 44148,
+      "men": 21531,
+      "women": 22617,
+      "urban": 25608,
+      "rural": 18540
+    },
+    "city": false
+  },
+  {
+    "id": "0208",
+    "name": "kłodzki",
+    "population": {
+      "total": 160832,
+      "men": 77643,
+      "women": 83189,
+      "urban": 103070,
+      "rural": 57762
+    },
+    "city": false
+  },
+  {
+    "id": "0209",
+    "name": "legnicki",
+    "population": {
+      "total": 55193,
+      "men": 27040,
+      "women": 28153,
+      "urban": 17274,
+      "rural": 37919
+    },
+    "city": false
+  },
+  {
+    "id": "0210",
+    "name": "lubański",
+    "population": {
+      "total": 55095,
+      "men": 26845,
+      "women": 28250,
+      "urban": 34496,
+      "rural": 20599
+    },
+    "city": false
+  },
+  {
+    "id": "0211",
+    "name": "lubiński",
+    "population": {
+      "total": 106215,
+      "men": 51388,
+      "women": 54827,
+      "urban": 78632,
+      "rural": 27583
+    },
+    "city": false
+  },
+  {
+    "id": "0212",
+    "name": "lwówecki",
+    "population": {
+      "total": 46342,
+      "men": 22612,
+      "women": 23730,
+      "urban": 23369,
+      "rural": 22973
+    },
+    "city": false
+  },
+  {
+    "id": "0213",
+    "name": "milicki",
+    "population": {
+      "total": 37114,
+      "men": 18386,
+      "women": 18728,
+      "urban": 11522,
+      "rural": 25592
+    },
+    "city": false
+  },
+  {
+    "id": "0214",
+    "name": "oleśnicki",
+    "population": {
+      "total": 106831,
+      "men": 52176,
+      "women": 54655,
+      "urban": 61897,
+      "rural": 44934
+    },
+    "city": false
+  },
+  {
+    "id": "0215",
+    "name": "oławski",
+    "population": {
+      "total": 76402,
+      "men": 37261,
+      "women": 39141,
+      "urban": 48640,
+      "rural": 27762
+    },
+    "city": false
+  },
+  {
+    "id": "0216",
+    "name": "polkowicki",
+    "population": {
+      "total": 63067,
+      "men": 31199,
+      "women": 31868,
+      "urban": 36777,
+      "rural": 26290
+    },
+    "city": false
+  },
+  {
+    "id": "0217",
+    "name": "strzeliński",
+    "population": {
+      "total": 43992,
+      "men": 21809,
+      "women": 22183,
+      "urban": 14758,
+      "rural": 29234
+    },
+    "city": false
+  },
+  {
+    "id": "0218",
+    "name": "średzki",
+    "population": {
+      "total": 53415,
+      "men": 26400,
+      "women": 27015,
+      "urban": 9428,
+      "rural": 43987
+    },
+    "city": false
+  },
+  {
+    "id": "0219",
+    "name": "świdnicki",
+    "population": {
+      "total": 158630,
+      "men": 76548,
+      "women": 82082,
+      "urban": 108956,
+      "rural": 49674
+    },
+    "city": false
+  },
+  {
+    "id": "0220",
+    "name": "trzebnicki",
+    "population": {
+      "total": 84238,
+      "men": 41301,
+      "women": 42937,
+      "urban": 31080,
+      "rural": 53158
+    },
+    "city": false
+  },
+  {
+    "id": "0221",
+    "name": "wałbrzyski",
+    "population": {
+      "total": 56597,
+      "men": 27300,
+      "women": 29297,
+      "urban": 36885,
+      "rural": 19712
+    },
+    "city": false
+  },
+  {
+    "id": "0222",
+    "name": "wołowski",
+    "population": {
+      "total": 47016,
+      "men": 23023,
+      "women": 23993,
+      "urban": 24915,
+      "rural": 22101
+    },
+    "city": false
+  },
+  {
+    "id": "0223",
+    "name": "wrocławski",
+    "population": {
+      "total": 139295,
+      "men": 68227,
+      "women": 71068,
+      "urban": 20974,
+      "rural": 118321
+    },
+    "city": false
+  },
+  {
+    "id": "0224",
+    "name": "ząbkowicki",
+    "population": {
+      "total": 66233,
+      "men": 32189,
+      "women": 34044,
+      "urban": 29558,
+      "rural": 36675
+    },
+    "city": false
+  },
+  {
+    "id": "0225",
+    "name": "zgorzelecki",
+    "population": {
+      "total": 90882,
+      "men": 44236,
+      "women": 46646,
+      "urban": 61840,
+      "rural": 29042
+    },
+    "city": false
+  },
+  {
+    "id": "0226",
+    "name": "złotoryjski",
+    "population": {
+      "total": 44264,
+      "men": 21706,
+      "women": 22558,
+      "urban": 21877,
+      "rural": 22387
+    },
+    "city": false
+  },
+  {
+    "id": "0261011",
+    "name": "Jelenia Góra",
+    "population": {
+      "total": 80325,
+      "men": 37434,
+      "women": 42891,
+      "urban": 80325,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "0262011",
+    "name": "Legnica",
+    "population": {
+      "total": 100455,
+      "men": 47540,
+      "women": 52915,
+      "urban": 100455,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "0264011",
+    "name": "Wrocław",
+    "population": {
+      "total": 638364,
+      "men": 297833,
+      "women": 340531,
+      "urban": 638364,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "0265011",
+    "name": "Wałbrzych",
+    "population": {
+      "total": 114065,
+      "men": 53751,
+      "women": 60314,
+      "urban": 114065,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "0401",
+    "name": "aleksandrowski",
+    "population": {
+      "total": 55253,
+      "men": 26794,
+      "women": 28459,
+      "urban": 24733,
+      "rural": 30520
+    },
+    "city": false
+  },
+  {
+    "id": "0402",
+    "name": "brodnicki",
+    "population": {
+      "total": 78758,
+      "men": 38986,
+      "women": 39772,
+      "urban": 33950,
+      "rural": 44808
+    },
+    "city": false
+  },
+  {
+    "id": "0403",
+    "name": "bydgoski",
+    "population": {
+      "total": 115186,
+      "men": 57054,
+      "women": 58132,
+      "urban": 26919,
+      "rural": 88267
+    },
+    "city": false
+  },
+  {
+    "id": "0404",
+    "name": "chełmiński",
+    "population": {
+      "total": 52215,
+      "men": 25616,
+      "women": 26599,
+      "urban": 19926,
+      "rural": 32289
+    },
+    "city": false
+  },
+  {
+    "id": "0405",
+    "name": "golubsko-dobrzyński",
+    "population": {
+      "total": 45266,
+      "men": 22442,
+      "women": 22824,
+      "urban": 17040,
+      "rural": 28226
+    },
+    "city": false
+  },
+  {
+    "id": "0406",
+    "name": "grudziądzki",
+    "population": {
+      "total": 40329,
+      "men": 20177,
+      "women": 20152,
+      "urban": 5194,
+      "rural": 35135
+    },
+    "city": false
+  },
+  {
+    "id": "0407",
+    "name": "inowrocławski",
+    "population": {
+      "total": 161752,
+      "men": 78373,
+      "women": 83379,
+      "urban": 104571,
+      "rural": 57181
+    },
+    "city": false
+  },
+  {
+    "id": "0408",
+    "name": "lipnowski",
+    "population": {
+      "total": 66431,
+      "men": 33037,
+      "women": 33394,
+      "urban": 20359,
+      "rural": 46072
+    },
+    "city": false
+  },
+  {
+    "id": "0409",
+    "name": "mogileński",
+    "population": {
+      "total": 46135,
+      "men": 22594,
+      "women": 23541,
+      "urban": 17776,
+      "rural": 28359
+    },
+    "city": false
+  },
+  {
+    "id": "0410",
+    "name": "nakielski",
+    "population": {
+      "total": 86708,
+      "men": 42983,
+      "women": 43725,
+      "urban": 37391,
+      "rural": 49317
+    },
+    "city": false
+  },
+  {
+    "id": "0411",
+    "name": "radziejowski",
+    "population": {
+      "total": 41050,
+      "men": 20326,
+      "women": 20724,
+      "urban": 10115,
+      "rural": 30935
+    },
+    "city": false
+  },
+  {
+    "id": "0412",
+    "name": "rypiński",
+    "population": {
+      "total": 44188,
+      "men": 21850,
+      "women": 22338,
+      "urban": 16437,
+      "rural": 27751
+    },
+    "city": false
+  },
+  {
+    "id": "0413",
+    "name": "sępoleński",
+    "population": {
+      "total": 41360,
+      "men": 20610,
+      "women": 20750,
+      "urban": 17621,
+      "rural": 23739
+    },
+    "city": false
+  },
+  {
+    "id": "0414",
+    "name": "świecki",
+    "population": {
+      "total": 99576,
+      "men": 49110,
+      "women": 50466,
+      "urban": 31907,
+      "rural": 67669
+    },
+    "city": false
+  },
+  {
+    "id": "0415",
+    "name": "toruński",
+    "population": {
+      "total": 105031,
+      "men": 51785,
+      "women": 53246,
+      "urban": 14715,
+      "rural": 90316
+    },
+    "city": false
+  },
+  {
+    "id": "0416",
+    "name": "tucholski",
+    "population": {
+      "total": 48472,
+      "men": 24174,
+      "women": 24298,
+      "urban": 13820,
+      "rural": 34652
+    },
+    "city": false
+  },
+  {
+    "id": "0417",
+    "name": "wąbrzeski",
+    "population": {
+      "total": 34640,
+      "men": 17007,
+      "women": 17633,
+      "urban": 13791,
+      "rural": 20849
+    },
+    "city": false
+  },
+  {
+    "id": "0418",
+    "name": "włocławski",
+    "population": {
+      "total": 86513,
+      "men": 42812,
+      "women": 43701,
+      "urban": 17214,
+      "rural": 69299
+    },
+    "city": false
+  },
+  {
+    "id": "0419",
+    "name": "żniński",
+    "population": {
+      "total": 70475,
+      "men": 34837,
+      "women": 35638,
+      "urban": 30117,
+      "rural": 40358
+    },
+    "city": false
+  },
+  {
+    "id": "0461011",
+    "name": "Bydgoszcz",
+    "population": {
+      "total": 353215,
+      "men": 166105,
+      "women": 187110,
+      "urban": 353215,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "0462011",
+    "name": "Grudziądz",
+    "population": {
+      "total": 95781,
+      "men": 45573,
+      "women": 50208,
+      "urban": 95781,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "0463011",
+    "name": "Toruń",
+    "population": {
+      "total": 202495,
+      "men": 94214,
+      "women": 108281,
+      "urban": 202495,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "0464011",
+    "name": "Włocławek",
+    "population": {
+      "total": 112106,
+      "men": 52841,
+      "women": 59265,
+      "urban": 112106,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "0601",
+    "name": "bialski",
+    "population": {
+      "total": 112170,
+      "men": 55679,
+      "women": 56491,
+      "urban": 22585,
+      "rural": 89585
+    },
+    "city": false
+  },
+  {
+    "id": "0602",
+    "name": "biłgorajski",
+    "population": {
+      "total": 102039,
+      "men": 50279,
+      "women": 51760,
+      "urban": 33819,
+      "rural": 68220
+    },
+    "city": false
+  },
+  {
+    "id": "0603",
+    "name": "chełmski",
+    "population": {
+      "total": 78766,
+      "men": 38868,
+      "women": 39898,
+      "urban": 7948,
+      "rural": 70818
+    },
+    "city": false
+  },
+  {
+    "id": "0604",
+    "name": "hrubieszowski",
+    "population": {
+      "total": 64823,
+      "men": 31773,
+      "women": 33050,
+      "urban": 17979,
+      "rural": 46844
+    },
+    "city": false
+  },
+  {
+    "id": "0605",
+    "name": "janowski",
+    "population": {
+      "total": 46401,
+      "men": 22946,
+      "women": 23455,
+      "urban": 13440,
+      "rural": 32961
+    },
+    "city": false
+  },
+  {
+    "id": "0606",
+    "name": "krasnostawski",
+    "population": {
+      "total": 64642,
+      "men": 31470,
+      "women": 33172,
+      "urban": 18931,
+      "rural": 45711
+    },
+    "city": false
+  },
+  {
+    "id": "0607",
+    "name": "kraśnicki",
+    "population": {
+      "total": 96761,
+      "men": 47050,
+      "women": 49711,
+      "urban": 39151,
+      "rural": 57610
+    },
+    "city": false
+  },
+  {
+    "id": "0608",
+    "name": "lubartowski",
+    "population": {
+      "total": 89161,
+      "men": 43564,
+      "women": 45597,
+      "urban": 27634,
+      "rural": 61527
+    },
+    "city": false
+  },
+  {
+    "id": "0609",
+    "name": "lubelski",
+    "population": {
+      "total": 152726,
+      "men": 74795,
+      "women": 77931,
+      "urban": 11577,
+      "rural": 141149
+    },
+    "city": false
+  },
+  {
+    "id": "0610",
+    "name": "łęczyński",
+    "population": {
+      "total": 57368,
+      "men": 28142,
+      "women": 29226,
+      "urban": 19209,
+      "rural": 38159
+    },
+    "city": false
+  },
+  {
+    "id": "0611",
+    "name": "łukowski",
+    "population": {
+      "total": 108109,
+      "men": 53791,
+      "women": 54318,
+      "urban": 32897,
+      "rural": 75212
+    },
+    "city": false
+  },
+  {
+    "id": "0612",
+    "name": "opolski",
+    "population": {
+      "total": 60406,
+      "men": 29552,
+      "women": 30854,
+      "urban": 17981,
+      "rural": 42425
+    },
+    "city": false
+  },
+  {
+    "id": "0613",
+    "name": "parczewski",
+    "population": {
+      "total": 35300,
+      "men": 17516,
+      "women": 17784,
+      "urban": 10769,
+      "rural": 24531
+    },
+    "city": false
+  },
+  {
+    "id": "0614",
+    "name": "puławski",
+    "population": {
+      "total": 114496,
+      "men": 54895,
+      "women": 59601,
+      "urban": 54637,
+      "rural": 59859
+    },
+    "city": false
+  },
+  {
+    "id": "0615",
+    "name": "radzyński",
+    "population": {
+      "total": 59796,
+      "men": 29859,
+      "women": 29937,
+      "urban": 15860,
+      "rural": 43936
+    },
+    "city": false
+  },
+  {
+    "id": "0616",
+    "name": "rycki",
+    "population": {
+      "total": 56820,
+      "men": 28324,
+      "women": 28496,
+      "urban": 26224,
+      "rural": 30596
+    },
+    "city": false
+  },
+  {
+    "id": "0617",
+    "name": "świdnicki",
+    "population": {
+      "total": 72491,
+      "men": 34853,
+      "women": 37638,
+      "urban": 42437,
+      "rural": 30054
+    },
+    "city": false
+  },
+  {
+    "id": "0618",
+    "name": "tomaszowski",
+    "population": {
+      "total": 84728,
+      "men": 41726,
+      "women": 43002,
+      "urban": 26184,
+      "rural": 58544
+    },
+    "city": false
+  },
+  {
+    "id": "0619",
+    "name": "włodawski",
+    "population": {
+      "total": 39007,
+      "men": 19249,
+      "women": 19758,
+      "urban": 13384,
+      "rural": 25623
+    },
+    "city": false
+  },
+  {
+    "id": "0620",
+    "name": "zamojski",
+    "population": {
+      "total": 107667,
+      "men": 52966,
+      "women": 54701,
+      "urban": 11515,
+      "rural": 96152
+    },
+    "city": false
+  },
+  {
+    "id": "0661011",
+    "name": "Biała Podlaska",
+    "population": {
+      "total": 57339,
+      "men": 27479,
+      "women": 29860,
+      "urban": 57339,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "0662011",
+    "name": "Chełm",
+    "population": {
+      "total": 63529,
+      "men": 29858,
+      "women": 33671,
+      "urban": 63529,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "0663011",
+    "name": "Lublin",
+    "population": {
+      "total": 340230,
+      "men": 156775,
+      "women": 183455,
+      "urban": 340230,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "0664011",
+    "name": "Zamość",
+    "population": {
+      "total": 64485,
+      "men": 30456,
+      "women": 34029,
+      "urban": 64485,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "0801",
+    "name": "gorzowski",
+    "population": {
+      "total": 71316,
+      "men": 35364,
+      "women": 35952,
+      "urban": 24810,
+      "rural": 46506
+    },
+    "city": false
+  },
+  {
+    "id": "0802",
+    "name": "krośnieński",
+    "population": {
+      "total": 55626,
+      "men": 27345,
+      "women": 28281,
+      "urban": 28298,
+      "rural": 27328
+    },
+    "city": false
+  },
+  {
+    "id": "0803",
+    "name": "międzyrzecki",
+    "population": {
+      "total": 58359,
+      "men": 28803,
+      "women": 29556,
+      "urban": 30507,
+      "rural": 27852
+    },
+    "city": false
+  },
+  {
+    "id": "0804",
+    "name": "nowosolski",
+    "population": {
+      "total": 86939,
+      "men": 42332,
+      "women": 44607,
+      "urban": 55797,
+      "rural": 31142
+    },
+    "city": false
+  },
+  {
+    "id": "0805",
+    "name": "słubicki",
+    "population": {
+      "total": 47056,
+      "men": 23076,
+      "women": 23980,
+      "urban": 30066,
+      "rural": 16990
+    },
+    "city": false
+  },
+  {
+    "id": "0806",
+    "name": "strzelecko-drezdenecki",
+    "population": {
+      "total": 49767,
+      "men": 24534,
+      "women": 25233,
+      "urban": 23457,
+      "rural": 26310
+    },
+    "city": false
+  },
+  {
+    "id": "0807",
+    "name": "sulęciński",
+    "population": {
+      "total": 35370,
+      "men": 17567,
+      "women": 17803,
+      "urban": 14730,
+      "rural": 20640
+    },
+    "city": false
+  },
+  {
+    "id": "0808",
+    "name": "świebodziński",
+    "population": {
+      "total": 56168,
+      "men": 27507,
+      "women": 28661,
+      "urban": 27050,
+      "rural": 29118
+    },
+    "city": false
+  },
+  {
+    "id": "0812",
+    "name": "wschowski",
+    "population": {
+      "total": 39231,
+      "men": 19336,
+      "women": 19895,
+      "urban": 19714,
+      "rural": 19517
+    },
+    "city": false
+  },
+  {
+    "id": "0809",
+    "name": "zielonogórski",
+    "population": {
+      "total": 75374,
+      "men": 37205,
+      "women": 38169,
+      "urban": 34017,
+      "rural": 41357
+    },
+    "city": false
+  },
+  {
+    "id": "0810",
+    "name": "żagański",
+    "population": {
+      "total": 80387,
+      "men": 39203,
+      "women": 41184,
+      "urban": 48740,
+      "rural": 31647
+    },
+    "city": false
+  },
+  {
+    "id": "0811",
+    "name": "żarski",
+    "population": {
+      "total": 97536,
+      "men": 47339,
+      "women": 50197,
+      "urban": 58999,
+      "rural": 38537
+    },
+    "city": false
+  },
+  {
+    "id": "0861011",
+    "name": "Gorzów Wielkopolski",
+    "population": {
+      "total": 123963,
+      "men": 58962,
+      "women": 65001,
+      "urban": 123963,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "0862011",
+    "name": "Zielona Góra",
+    "population": {
+      "total": 139560,
+      "men": 66279,
+      "women": 73281,
+      "urban": 139560,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "1001",
+    "name": "bełchatowski",
+    "population": {
+      "total": 112934,
+      "men": 55436,
+      "women": 57498,
+      "urban": 65857,
+      "rural": 47077
+    },
+    "city": false
+  },
+  {
+    "id": "1061011",
+    "name": "Łódź",
+    "population": {
+      "total": 693797,
+      "men": 315994,
+      "women": 377803,
+      "urban": 693797,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "1261011",
+    "name": "Kraków",
+    "population": {
+      "total": 766739,
+      "men": 357761,
+      "women": 408978,
+      "urban": 766739,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "1262011",
+    "name": "Nowy Sącz",
+    "population": {
+      "total": 83947,
+      "men": 40121,
+      "women": 43826,
+      "urban": 83947,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "1263011",
+    "name": "Tarnów",
+    "population": {
+      "total": 109842,
+      "men": 51905,
+      "women": 57937,
+      "urban": 109842,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "1436",
+    "name": "zwoleński",
+    "population": {
+      "total": 36648,
+      "men": 18250,
+      "women": 18398,
+      "urban": 7901,
+      "rural": 28747
+    },
+    "city": false
+  },
+  {
+    "id": "1461011",
+    "name": "Ostrołęka",
+    "population": {
+      "total": 52308,
+      "men": 24952,
+      "women": 27356,
+      "urban": 52308,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "1462011",
+    "name": "Płock",
+    "population": {
+      "total": 121033,
+      "men": 57138,
+      "women": 63895,
+      "urban": 121033,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "1463011",
+    "name": "Radom",
+    "population": {
+      "total": 214368,
+      "men": 101763,
+      "women": 112605,
+      "urban": 214368,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "1464011",
+    "name": "Siedlce",
+    "population": {
+      "total": 77180,
+      "men": 36514,
+      "women": 40666,
+      "urban": 77180,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "1465011",
+    "name": "M. st. Warszawa",
+    "population": {
+      "total": 1758143,
+      "men": 807435,
+      "women": 950708,
+      "urban": 1758143,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "1861011",
+    "name": "Krosno",
+    "population": {
+      "total": 46478,
+      "men": 22019,
+      "women": 24459,
+      "urban": 46478,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "1862011",
+    "name": "Przemyśl",
+    "population": {
+      "total": 61973,
+      "men": 29136,
+      "women": 32837,
+      "urban": 61973,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "1863011",
+    "name": "Rzeszów",
+    "population": {
+      "total": 189111,
+      "men": 89536,
+      "women": 99575,
+      "urban": 189111,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "1864011",
+    "name": "Tarnobrzeg",
+    "population": {
+      "total": 47527,
+      "men": 22772,
+      "women": 24755,
+      "urban": 47527,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "2061011",
+    "name": "Białystok",
+    "population": {
+      "total": 297132,
+      "men": 139381,
+      "women": 157751,
+      "urban": 297132,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "2062011",
+    "name": "Łomża",
+    "population": {
+      "total": 62843,
+      "men": 30029,
+      "women": 32814,
+      "urban": 62843,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "2063011",
+    "name": "Suwałki",
+    "population": {
+      "total": 69660,
+      "men": 33282,
+      "women": 36378,
+      "urban": 69660,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "2261011",
+    "name": "Gdańsk",
+    "population": {
+      "total": 464293,
+      "men": 220061,
+      "women": 244232,
+      "urban": 464293,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "2262011",
+    "name": "Gdynia",
+    "population": {
+      "total": 246643,
+      "men": 116517,
+      "women": 130126,
+      "urban": 246643,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "2263011",
+    "name": "Słupsk",
+    "population": {
+      "total": 91715,
+      "men": 43241,
+      "women": 48474,
+      "urban": 91715,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "2264011",
+    "name": "Sopot",
+    "population": {
+      "total": 36701,
+      "men": 17050,
+      "women": 19651,
+      "urban": 36701,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "2461011",
+    "name": "Bielsko-Biała",
+    "population": {
+      "total": 171828,
+      "men": 81124,
+      "women": 90704,
+      "urban": 171828,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "2462011",
+    "name": "Bytom",
+    "population": {
+      "total": 168968,
+      "men": 80665,
+      "women": 88303,
+      "urban": 168968,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "2463011",
+    "name": "Chorzów",
+    "population": {
+      "total": 109151,
+      "men": 51923,
+      "women": 57228,
+      "urban": 109151,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "2464011",
+    "name": "Częstochowa",
+    "population": {
+      "total": 225313,
+      "men": 105835,
+      "women": 119478,
+      "urban": 225313,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "2465011",
+    "name": "Dąbrowa Górnicza",
+    "population": {
+      "total": 121387,
+      "men": 58236,
+      "women": 63151,
+      "urban": 121387,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "2466011",
+    "name": "Gliwice",
+    "population": {
+      "total": 181715,
+      "men": 87410,
+      "women": 94305,
+      "urban": 181715,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "2467011",
+    "name": "Jastrzębie-Zdrój",
+    "population": {
+      "total": 89707,
+      "men": 43793,
+      "women": 45914,
+      "urban": 89707,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "2468011",
+    "name": "Jaworzno",
+    "population": {
+      "total": 92215,
+      "men": 44745,
+      "women": 47470,
+      "urban": 92215,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "2469011",
+    "name": "Katowice",
+    "population": {
+      "total": 297197,
+      "men": 141334,
+      "women": 155863,
+      "urban": 297197,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "2470011",
+    "name": "Mysłowice",
+    "population": {
+      "total": 74600,
+      "men": 36050,
+      "women": 38550,
+      "urban": 74600,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "2471011",
+    "name": "Piekary Śląskie",
+    "population": {
+      "total": 55820,
+      "men": 26735,
+      "women": 29085,
+      "urban": 55820,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "2472011",
+    "name": "Ruda Śląska",
+    "population": {
+      "total": 138754,
+      "men": 67118,
+      "women": 71636,
+      "urban": 138754,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "2473011",
+    "name": "Rybnik",
+    "population": {
+      "total": 139076,
+      "men": 67845,
+      "women": 71231,
+      "urban": 139076,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "2474011",
+    "name": "Siemianowice Śląskie",
+    "population": {
+      "total": 67710,
+      "men": 32329,
+      "women": 35381,
+      "urban": 67710,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "2475011",
+    "name": "Sosnowiec",
+    "population": {
+      "total": 204958,
+      "men": 97018,
+      "women": 107940,
+      "urban": 204958,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "2476011",
+    "name": "Świętochłowice",
+    "population": {
+      "total": 50529,
+      "men": 24307,
+      "women": 26222,
+      "urban": 50529,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "2477011",
+    "name": "Tychy",
+    "population": {
+      "total": 128191,
+      "men": 61787,
+      "women": 66404,
+      "urban": 128191,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "2478011",
+    "name": "Zabrze",
+    "population": {
+      "total": 175016,
+      "men": 84436,
+      "women": 90580,
+      "urban": 175016,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "2479011",
+    "name": "Żory",
+    "population": {
+      "total": 62103,
+      "men": 30413,
+      "women": 31690,
+      "urban": 62103,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "2861011",
+    "name": "Elbląg",
+    "population": {
+      "total": 121046,
+      "men": 57958,
+      "women": 63088,
+      "urban": 121046,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "2862011",
+    "name": "Olsztyn",
+    "population": {
+      "total": 172970,
+      "men": 80473,
+      "women": 92497,
+      "urban": 172970,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "3061011",
+    "name": "Kalisz",
+    "population": {
+      "total": 101902,
+      "men": 47444,
+      "women": 54458,
+      "urban": 101902,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "3062011",
+    "name": "Konin",
+    "population": {
+      "total": 75077,
+      "men": 35500,
+      "women": 39577,
+      "urban": 75077,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "3063011",
+    "name": "Leszno",
+    "population": {
+      "total": 64090,
+      "men": 30704,
+      "women": 33386,
+      "urban": 64090,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "3064011",
+    "name": "Poznań",
+    "population": {
+      "total": 539549,
+      "men": 251666,
+      "women": 287883,
+      "urban": 539549,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "3261011",
+    "name": "Koszalin",
+    "population": {
+      "total": 107758,
+      "men": 50808,
+      "women": 56950,
+      "urban": 107758,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "3262011",
+    "name": "Szczecin",
+    "population": {
+      "total": 404403,
+      "men": 192162,
+      "women": 212241,
+      "urban": 404403,
+      "rural": 0
+    },
+    "city": true
+  },
+  {
+    "id": "3263011",
+    "name": "Świnoujście",
+    "population": {
+      "total": 41027,
+      "men": 19751,
+      "women": 21276,
+      "urban": 41027,
+      "rural": 0
+    },
+    "city": true
+  }
+]
