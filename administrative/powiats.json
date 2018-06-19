@@ -9,7 +9,8 @@
       "urban": 43351,
       "rural": 46912
     },
-    "type": null
+    "type": null,
+    "area": 1303.51
   },
   {
     "id": "0202",
@@ -21,7 +22,8 @@
       "urban": 80720,
       "rural": 21655
     },
-    "city": false
+    "city": false,
+    "area": 478.51
   },
   {
     "id": "0203",
@@ -33,7 +35,8 @@
       "urban": 68114,
       "rural": 21715
     },
-    "city": false
+    "city": false,
+    "area": 443.27
   },
   {
     "id": "0204",
@@ -45,7 +48,8 @@
       "urban": 14721,
       "rural": 20845
     },
-    "city": false
+    "city": false,
+    "area": 738.27
   },
   {
     "id": "0205",
@@ -57,7 +61,8 @@
       "urban": 28429,
       "rural": 22613
     },
-    "city": false
+    "city": false,
+    "area": 581.55
   },
   {
     "id": "0206",
@@ -69,7 +74,8 @@
       "urban": 28822,
       "rural": 35458
     },
-    "city": false
+    "city": false,
+    "area": 627.14
   },
   {
     "id": "0207",
@@ -81,7 +87,8 @@
       "urban": 25608,
       "rural": 18540
     },
-    "city": false
+    "city": false,
+    "area": 395.69
   },
   {
     "id": "0208",
@@ -93,7 +100,8 @@
       "urban": 103070,
       "rural": 57762
     },
-    "city": false
+    "city": false,
+    "area": 1643.3
   },
   {
     "id": "0209",
@@ -105,7 +113,8 @@
       "urban": 17274,
       "rural": 37919
     },
-    "city": false
+    "city": false,
+    "area": 744.08
   },
   {
     "id": "0210",
@@ -117,7 +126,8 @@
       "urban": 34496,
       "rural": 20599
     },
-    "city": false
+    "city": false,
+    "area": 428.3
   },
   {
     "id": "0211",
@@ -129,7 +139,8 @@
       "urban": 78632,
       "rural": 27583
     },
-    "city": false
+    "city": false,
+    "area": 711.62
   },
   {
     "id": "0212",
@@ -141,7 +152,8 @@
       "urban": 23369,
       "rural": 22973
     },
-    "city": false
+    "city": false,
+    "area": 709.69
   },
   {
     "id": "0213",
@@ -153,7 +165,8 @@
       "urban": 11522,
       "rural": 25592
     },
-    "city": false
+    "city": false,
+    "area": 714.93
   },
   {
     "id": "0214",
@@ -165,7 +178,8 @@
       "urban": 61897,
       "rural": 44934
     },
-    "city": false
+    "city": false,
+    "area": 1049.31
   },
   {
     "id": "0215",
@@ -177,7 +191,8 @@
       "urban": 48640,
       "rural": 27762
     },
-    "city": false
+    "city": false,
+    "area": 524.1
   },
   {
     "id": "0216",
@@ -189,7 +204,8 @@
       "urban": 36777,
       "rural": 26290
     },
-    "city": false
+    "city": false,
+    "area": 779.46
   },
   {
     "id": "0217",
@@ -201,7 +217,8 @@
       "urban": 14758,
       "rural": 29234
     },
-    "city": false
+    "city": false,
+    "area": 622.06
   },
   {
     "id": "0218",
@@ -213,7 +230,8 @@
       "urban": 9428,
       "rural": 43987
     },
-    "city": false
+    "city": false,
+    "area": 704.14
   },
   {
     "id": "0219",
@@ -225,7 +243,8 @@
       "urban": 108956,
       "rural": 49674
     },
-    "city": false
+    "city": false,
+    "area": 741.14
   },
   {
     "id": "0220",
@@ -237,7 +256,8 @@
       "urban": 31080,
       "rural": 53158
     },
-    "city": false
+    "city": false,
+    "area": 1024.78
   },
   {
     "id": "0221",
@@ -249,7 +269,8 @@
       "urban": 36885,
       "rural": 19712
     },
-    "city": false
+    "city": false,
+    "area": 430.22
   },
   {
     "id": "0222",
@@ -261,7 +282,8 @@
       "urban": 24915,
       "rural": 22101
     },
-    "city": false
+    "city": false,
+    "area": 674.96
   },
   {
     "id": "0223",
@@ -273,7 +295,8 @@
       "urban": 20974,
       "rural": 118321
     },
-    "city": false
+    "city": false,
+    "area": 1117.7
   },
   {
     "id": "0224",
@@ -285,7 +308,8 @@
       "urban": 29558,
       "rural": 36675
     },
-    "city": false
+    "city": false,
+    "area": 801.53
   },
   {
     "id": "0225",
@@ -297,7 +321,8 @@
       "urban": 61840,
       "rural": 29042
     },
-    "city": false
+    "city": false,
+    "area": 838.6
   },
   {
     "id": "0226",
@@ -309,10 +334,11 @@
       "urban": 21877,
       "rural": 22387
     },
-    "city": false
+    "city": false,
+    "area": 575.81
   },
   {
-    "id": "0261011",
+    "id": "0261",
     "name": "Jelenia Góra",
     "population": {
       "total": 80325,
@@ -321,10 +347,11 @@
       "urban": 80325,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 109.22
   },
   {
-    "id": "0262011",
+    "id": "0262",
     "name": "Legnica",
     "population": {
       "total": 100455,
@@ -333,10 +360,11 @@
       "urban": 100455,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 56.29
   },
   {
-    "id": "0264011",
+    "id": "0264",
     "name": "Wrocław",
     "population": {
       "total": 638364,
@@ -345,10 +373,11 @@
       "urban": 638364,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 292.82
   },
   {
-    "id": "0265011",
+    "id": "0265",
     "name": "Wałbrzych",
     "population": {
       "total": 114065,
@@ -357,7 +386,8 @@
       "urban": 114065,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 84.7
   },
   {
     "id": "0401",
@@ -369,7 +399,8 @@
       "urban": 24733,
       "rural": 30520
     },
-    "city": false
+    "city": false,
+    "area": 474.63
   },
   {
     "id": "0402",
@@ -381,7 +412,8 @@
       "urban": 33950,
       "rural": 44808
     },
-    "city": false
+    "city": false,
+    "area": 1039.97
   },
   {
     "id": "0403",
@@ -393,7 +425,8 @@
       "urban": 26919,
       "rural": 88267
     },
-    "city": false
+    "city": false,
+    "area": 1394.12
   },
   {
     "id": "0404",
@@ -405,7 +438,8 @@
       "urban": 19926,
       "rural": 32289
     },
-    "city": false
+    "city": false,
+    "area": 526.94
   },
   {
     "id": "0405",
@@ -417,7 +451,8 @@
       "urban": 17040,
       "rural": 28226
     },
-    "city": false
+    "city": false,
+    "area": 612.85
   },
   {
     "id": "0406",
@@ -429,7 +464,8 @@
       "urban": 5194,
       "rural": 35135
     },
-    "city": false
+    "city": false,
+    "area": 727.76
   },
   {
     "id": "0407",
@@ -441,7 +477,8 @@
       "urban": 104571,
       "rural": 57181
     },
-    "city": false
+    "city": false,
+    "area": 1225.18
   },
   {
     "id": "0408",
@@ -453,7 +490,8 @@
       "urban": 20359,
       "rural": 46072
     },
-    "city": false
+    "city": false,
+    "area": 1015.74
   },
   {
     "id": "0409",
@@ -465,7 +503,8 @@
       "urban": 17776,
       "rural": 28359
     },
-    "city": false
+    "city": false,
+    "area": 675.12
   },
   {
     "id": "0410",
@@ -477,7 +516,8 @@
       "urban": 37391,
       "rural": 49317
     },
-    "city": false
+    "city": false,
+    "area": 1120.08
   },
   {
     "id": "0411",
@@ -489,7 +529,8 @@
       "urban": 10115,
       "rural": 30935
     },
-    "city": false
+    "city": false,
+    "area": 607.2
   },
   {
     "id": "0412",
@@ -501,7 +542,8 @@
       "urban": 16437,
       "rural": 27751
     },
-    "city": false
+    "city": false,
+    "area": 586.47
   },
   {
     "id": "0413",
@@ -513,7 +555,8 @@
       "urban": 17621,
       "rural": 23739
     },
-    "city": false
+    "city": false,
+    "area": 791.09
   },
   {
     "id": "0414",
@@ -525,7 +568,8 @@
       "urban": 31907,
       "rural": 67669
     },
-    "city": false
+    "city": false,
+    "area": 1474.18
   },
   {
     "id": "0415",
@@ -537,7 +581,8 @@
       "urban": 14715,
       "rural": 90316
     },
-    "city": false
+    "city": false,
+    "area": 1230.42
   },
   {
     "id": "0416",
@@ -549,7 +594,8 @@
       "urban": 13820,
       "rural": 34652
     },
-    "city": false
+    "city": false,
+    "area": 1075.46
   },
   {
     "id": "0417",
@@ -561,7 +607,8 @@
       "urban": 13791,
       "rural": 20849
     },
-    "city": false
+    "city": false,
+    "area": 501.95
   },
   {
     "id": "0418",
@@ -573,7 +620,8 @@
       "urban": 17214,
       "rural": 69299
     },
-    "city": false
+    "city": false,
+    "area": 1473.63
   },
   {
     "id": "0419",
@@ -585,10 +633,11 @@
       "urban": 30117,
       "rural": 40358
     },
-    "city": false
+    "city": false,
+    "area": 984.77
   },
   {
-    "id": "0461011",
+    "id": "0461",
     "name": "Bydgoszcz",
     "population": {
       "total": 353215,
@@ -597,10 +646,11 @@
       "urban": 353215,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 175.98
   },
   {
-    "id": "0462011",
+    "id": "0462",
     "name": "Grudziądz",
     "population": {
       "total": 95781,
@@ -609,10 +659,11 @@
       "urban": 95781,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 57.76
   },
   {
-    "id": "0463011",
+    "id": "0463",
     "name": "Toruń",
     "population": {
       "total": 202495,
@@ -621,10 +672,11 @@
       "urban": 202495,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 115.72
   },
   {
-    "id": "0464011",
+    "id": "0464",
     "name": "Włocławek",
     "population": {
       "total": 112106,
@@ -633,7 +685,8 @@
       "urban": 112106,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 84.32
   },
   {
     "id": "0601",
@@ -645,7 +698,8 @@
       "urban": 22585,
       "rural": 89585
     },
-    "city": false
+    "city": false,
+    "area": 2754.26
   },
   {
     "id": "0602",
@@ -657,7 +711,8 @@
       "urban": 33819,
       "rural": 68220
     },
-    "city": false
+    "city": false,
+    "area": 1681.1
   },
   {
     "id": "0603",
@@ -669,7 +724,8 @@
       "urban": 7948,
       "rural": 70818
     },
-    "city": false
+    "city": false,
+    "area": 1885.6
   },
   {
     "id": "0604",
@@ -681,7 +737,8 @@
       "urban": 17979,
       "rural": 46844
     },
-    "city": false
+    "city": false,
+    "area": 1268.02
   },
   {
     "id": "0605",
@@ -693,7 +750,8 @@
       "urban": 13440,
       "rural": 32961
     },
-    "city": false
+    "city": false,
+    "area": 875.28
   },
   {
     "id": "0606",
@@ -705,7 +763,8 @@
       "urban": 18931,
       "rural": 45711
     },
-    "city": false
+    "city": false,
+    "area": 1031.44
   },
   {
     "id": "0607",
@@ -717,7 +776,8 @@
       "urban": 39151,
       "rural": 57610
     },
-    "city": false
+    "city": false,
+    "area": 1005.3
   },
   {
     "id": "0608",
@@ -729,7 +789,8 @@
       "urban": 27634,
       "rural": 61527
     },
-    "city": false
+    "city": false,
+    "area": 1288.74
   },
   {
     "id": "0609",
@@ -741,7 +802,8 @@
       "urban": 11577,
       "rural": 141149
     },
-    "city": false
+    "city": false,
+    "area": 1679.53
   },
   {
     "id": "0610",
@@ -753,7 +815,8 @@
       "urban": 19209,
       "rural": 38159
     },
-    "city": false
+    "city": false,
+    "area": 636.64
   },
   {
     "id": "0611",
@@ -765,7 +828,8 @@
       "urban": 32897,
       "rural": 75212
     },
-    "city": false
+    "city": false,
+    "area": 1394.21
   },
   {
     "id": "0612",
@@ -777,7 +841,8 @@
       "urban": 17981,
       "rural": 42425
     },
-    "city": false
+    "city": false,
+    "area": 810.02
   },
   {
     "id": "0613",
@@ -789,7 +854,8 @@
       "urban": 10769,
       "rural": 24531
     },
-    "city": false
+    "city": false,
+    "area": 952.2
   },
   {
     "id": "0614",
@@ -801,7 +867,8 @@
       "urban": 54637,
       "rural": 59859
     },
-    "city": false
+    "city": false,
+    "area": 934.09
   },
   {
     "id": "0615",
@@ -813,7 +880,8 @@
       "urban": 15860,
       "rural": 43936
     },
-    "city": false
+    "city": false,
+    "area": 965.06
   },
   {
     "id": "0616",
@@ -825,7 +893,8 @@
       "urban": 26224,
       "rural": 30596
     },
-    "city": false
+    "city": false,
+    "area": 614.53
   },
   {
     "id": "0617",
@@ -837,7 +906,8 @@
       "urban": 42437,
       "rural": 30054
     },
-    "city": false
+    "city": false,
+    "area": 468.35
   },
   {
     "id": "0618",
@@ -849,7 +919,8 @@
       "urban": 26184,
       "rural": 58544
     },
-    "city": false
+    "city": false,
+    "area": 1488.89
   },
   {
     "id": "0619",
@@ -861,7 +932,8 @@
       "urban": 13384,
       "rural": 25623
     },
-    "city": false
+    "city": false,
+    "area": 1256.42
   },
   {
     "id": "0620",
@@ -873,10 +945,11 @@
       "urban": 11515,
       "rural": 96152
     },
-    "city": false
+    "city": false,
+    "area": 1870.29
   },
   {
-    "id": "0661011",
+    "id": "0661",
     "name": "Biała Podlaska",
     "population": {
       "total": 57339,
@@ -885,10 +958,11 @@
       "urban": 57339,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 49.4
   },
   {
-    "id": "0662011",
+    "id": "0662",
     "name": "Chełm",
     "population": {
       "total": 63529,
@@ -897,10 +971,11 @@
       "urban": 63529,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 35.28
   },
   {
-    "id": "0663011",
+    "id": "0663",
     "name": "Lublin",
     "population": {
       "total": 340230,
@@ -909,10 +984,11 @@
       "urban": 340230,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 147.47
   },
   {
-    "id": "0664011",
+    "id": "0664",
     "name": "Zamość",
     "population": {
       "total": 64485,
@@ -921,7 +997,8 @@
       "urban": 64485,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 30.34
   },
   {
     "id": "0801",
@@ -933,7 +1010,8 @@
       "urban": 24810,
       "rural": 46506
     },
-    "city": false
+    "city": false,
+    "area": 1214.23
   },
   {
     "id": "0802",
@@ -945,7 +1023,8 @@
       "urban": 28298,
       "rural": 27328
     },
-    "city": false
+    "city": false,
+    "area": 1391.25
   },
   {
     "id": "0803",
@@ -957,7 +1036,8 @@
       "urban": 30507,
       "rural": 27852
     },
-    "city": false
+    "city": false,
+    "area": 1387.61
   },
   {
     "id": "0804",
@@ -969,7 +1049,8 @@
       "urban": 55797,
       "rural": 31142
     },
-    "city": false
+    "city": false,
+    "area": 770.73
   },
   {
     "id": "0805",
@@ -981,7 +1062,8 @@
       "urban": 30066,
       "rural": 16990
     },
-    "city": false
+    "city": false,
+    "area": 999.29
   },
   {
     "id": "0806",
@@ -993,7 +1075,8 @@
       "urban": 23457,
       "rural": 26310
     },
-    "city": false
+    "city": false,
+    "area": 1247.86
   },
   {
     "id": "0807",
@@ -1005,7 +1088,8 @@
       "urban": 14730,
       "rural": 20640
     },
-    "city": false
+    "city": false,
+    "area": 1177.8
   },
   {
     "id": "0808",
@@ -1017,7 +1101,8 @@
       "urban": 27050,
       "rural": 29118
     },
-    "city": false
+    "city": false,
+    "area": 936.57
   },
   {
     "id": "0812",
@@ -1029,7 +1114,8 @@
       "urban": 19714,
       "rural": 19517
     },
-    "city": false
+    "city": false,
+    "area": 624.2
   },
   {
     "id": "0809",
@@ -1041,7 +1127,8 @@
       "urban": 34017,
       "rural": 41357
     },
-    "city": false
+    "city": false,
+    "area": 1349.75
   },
   {
     "id": "0810",
@@ -1053,7 +1140,8 @@
       "urban": 48740,
       "rural": 31647
     },
-    "city": false
+    "city": false,
+    "area": 1131.82
   },
   {
     "id": "0811",
@@ -1065,10 +1153,11 @@
       "urban": 58999,
       "rural": 38537
     },
-    "city": false
+    "city": false,
+    "area": 1392.78
   },
   {
-    "id": "0861011",
+    "id": "0861",
     "name": "Gorzów Wielkopolski",
     "population": {
       "total": 123963,
@@ -1077,10 +1166,11 @@
       "urban": 123963,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 85.72
   },
   {
-    "id": "0862011",
+    "id": "0862",
     "name": "Zielona Góra",
     "population": {
       "total": 139560,
@@ -1089,7 +1179,8 @@
       "urban": 139560,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 278.32
   },
   {
     "id": "1001",
@@ -1101,10 +1192,11 @@
       "urban": 65857,
       "rural": 47077
     },
-    "city": false
+    "city": false,
+    "area": 967.6
   },
   {
-    "id": "1061011",
+    "id": "1061",
     "name": "Łódź",
     "population": {
       "total": 693797,
@@ -1113,10 +1205,11 @@
       "urban": 693797,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 293.25
   },
   {
-    "id": "1261011",
+    "id": "1261",
     "name": "Kraków",
     "population": {
       "total": 766739,
@@ -1125,10 +1218,11 @@
       "urban": 766739,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 326.85
   },
   {
-    "id": "1262011",
+    "id": "1262",
     "name": "Nowy Sącz",
     "population": {
       "total": 83947,
@@ -1137,10 +1231,11 @@
       "urban": 83947,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 57.58
   },
   {
-    "id": "1263011",
+    "id": "1263",
     "name": "Tarnów",
     "population": {
       "total": 109842,
@@ -1149,7 +1244,8 @@
       "urban": 109842,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 72.38
   },
   {
     "id": "1436",
@@ -1161,10 +1257,11 @@
       "urban": 7901,
       "rural": 28747
     },
-    "city": false
+    "city": false,
+    "area": 573.3
   },
   {
-    "id": "1461011",
+    "id": "1461",
     "name": "Ostrołęka",
     "population": {
       "total": 52308,
@@ -1173,10 +1270,11 @@
       "urban": 52308,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 28.63
   },
   {
-    "id": "1462011",
+    "id": "1462",
     "name": "Płock",
     "population": {
       "total": 121033,
@@ -1185,10 +1283,11 @@
       "urban": 121033,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 88.04
   },
   {
-    "id": "1463011",
+    "id": "1463",
     "name": "Radom",
     "population": {
       "total": 214368,
@@ -1197,10 +1296,11 @@
       "urban": 214368,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 111.8
   },
   {
-    "id": "1464011",
+    "id": "1464",
     "name": "Siedlce",
     "population": {
       "total": 77180,
@@ -1209,10 +1309,11 @@
       "urban": 77180,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 31.86
   },
   {
-    "id": "1465011",
+    "id": "1465",
     "name": "M. st. Warszawa",
     "population": {
       "total": 1758143,
@@ -1221,10 +1322,11 @@
       "urban": 1758143,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 517.24
   },
   {
-    "id": "1861011",
+    "id": "1861",
     "name": "Krosno",
     "population": {
       "total": 46478,
@@ -1233,10 +1335,11 @@
       "urban": 46478,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 43.5
   },
   {
-    "id": "1862011",
+    "id": "1862",
     "name": "Przemyśl",
     "population": {
       "total": 61973,
@@ -1245,10 +1348,11 @@
       "urban": 61973,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 46.17
   },
   {
-    "id": "1863011",
+    "id": "1863",
     "name": "Rzeszów",
     "population": {
       "total": 189111,
@@ -1257,10 +1361,11 @@
       "urban": 189111,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 116.36
   },
   {
-    "id": "1864011",
+    "id": "1864",
     "name": "Tarnobrzeg",
     "population": {
       "total": 47527,
@@ -1269,10 +1374,11 @@
       "urban": 47527,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 85.4
   },
   {
-    "id": "2061011",
+    "id": "2061",
     "name": "Białystok",
     "population": {
       "total": 297132,
@@ -1281,10 +1387,11 @@
       "urban": 297132,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 102.13
   },
   {
-    "id": "2062011",
+    "id": "2062",
     "name": "Łomża",
     "population": {
       "total": 62843,
@@ -1293,10 +1400,11 @@
       "urban": 62843,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 32.67
   },
   {
-    "id": "2063011",
+    "id": "2063",
     "name": "Suwałki",
     "population": {
       "total": 69660,
@@ -1305,10 +1413,11 @@
       "urban": 69660,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 65.51
   },
   {
-    "id": "2261011",
+    "id": "2261",
     "name": "Gdańsk",
     "population": {
       "total": 464293,
@@ -1317,10 +1426,11 @@
       "urban": 464293,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 261.96
   },
   {
-    "id": "2262011",
+    "id": "2262",
     "name": "Gdynia",
     "population": {
       "total": 246643,
@@ -1329,10 +1439,11 @@
       "urban": 246643,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 135.14
   },
   {
-    "id": "2263011",
+    "id": "2263",
     "name": "Słupsk",
     "population": {
       "total": 91715,
@@ -1341,10 +1452,11 @@
       "urban": 91715,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 43.15
   },
   {
-    "id": "2264011",
+    "id": "2264",
     "name": "Sopot",
     "population": {
       "total": 36701,
@@ -1353,10 +1465,11 @@
       "urban": 36701,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 17.28
   },
   {
-    "id": "2461011",
+    "id": "2461",
     "name": "Bielsko-Biała",
     "population": {
       "total": 171828,
@@ -1365,10 +1478,11 @@
       "urban": 171828,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 124.51
   },
   {
-    "id": "2462011",
+    "id": "2462",
     "name": "Bytom",
     "population": {
       "total": 168968,
@@ -1377,10 +1491,11 @@
       "urban": 168968,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 69.44
   },
   {
-    "id": "2463011",
+    "id": "2463",
     "name": "Chorzów",
     "population": {
       "total": 109151,
@@ -1389,10 +1504,11 @@
       "urban": 109151,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 33.24
   },
   {
-    "id": "2464011",
+    "id": "2464",
     "name": "Częstochowa",
     "population": {
       "total": 225313,
@@ -1401,10 +1517,11 @@
       "urban": 225313,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 159.71
   },
   {
-    "id": "2465011",
+    "id": "2465",
     "name": "Dąbrowa Górnicza",
     "population": {
       "total": 121387,
@@ -1413,10 +1530,11 @@
       "urban": 121387,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 188.73
   },
   {
-    "id": "2466011",
+    "id": "2466",
     "name": "Gliwice",
     "population": {
       "total": 181715,
@@ -1425,10 +1543,11 @@
       "urban": 181715,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 133.88
   },
   {
-    "id": "2467011",
+    "id": "2467",
     "name": "Jastrzębie-Zdrój",
     "population": {
       "total": 89707,
@@ -1437,10 +1556,11 @@
       "urban": 89707,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 85.33
   },
   {
-    "id": "2468011",
+    "id": "2468",
     "name": "Jaworzno",
     "population": {
       "total": 92215,
@@ -1449,10 +1569,11 @@
       "urban": 92215,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 152.59
   },
   {
-    "id": "2469011",
+    "id": "2469",
     "name": "Katowice",
     "population": {
       "total": 297197,
@@ -1461,10 +1582,11 @@
       "urban": 297197,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 164.64
   },
   {
-    "id": "2470011",
+    "id": "2470",
     "name": "Mysłowice",
     "population": {
       "total": 74600,
@@ -1473,10 +1595,11 @@
       "urban": 74600,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 65.62
   },
   {
-    "id": "2471011",
+    "id": "2471",
     "name": "Piekary Śląskie",
     "population": {
       "total": 55820,
@@ -1485,10 +1608,11 @@
       "urban": 55820,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 39.98
   },
   {
-    "id": "2472011",
+    "id": "2472",
     "name": "Ruda Śląska",
     "population": {
       "total": 138754,
@@ -1497,10 +1621,11 @@
       "urban": 138754,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 77.73
   },
   {
-    "id": "2473011",
+    "id": "2473",
     "name": "Rybnik",
     "population": {
       "total": 139076,
@@ -1509,10 +1634,11 @@
       "urban": 139076,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 148.36
   },
   {
-    "id": "2474011",
+    "id": "2474",
     "name": "Siemianowice Śląskie",
     "population": {
       "total": 67710,
@@ -1521,10 +1647,11 @@
       "urban": 67710,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 25.5
   },
   {
-    "id": "2475011",
+    "id": "2475",
     "name": "Sosnowiec",
     "population": {
       "total": 204958,
@@ -1533,10 +1660,11 @@
       "urban": 204958,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 91.06
   },
   {
-    "id": "2476011",
+    "id": "2476",
     "name": "Świętochłowice",
     "population": {
       "total": 50529,
@@ -1545,10 +1673,11 @@
       "urban": 50529,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 13.31
   },
   {
-    "id": "2477011",
+    "id": "2477",
     "name": "Tychy",
     "population": {
       "total": 128191,
@@ -1557,10 +1686,11 @@
       "urban": 128191,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 81.81
   },
   {
-    "id": "2478011",
+    "id": "2478",
     "name": "Zabrze",
     "population": {
       "total": 175016,
@@ -1569,10 +1699,11 @@
       "urban": 175016,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 80.4
   },
   {
-    "id": "2479011",
+    "id": "2479",
     "name": "Żory",
     "population": {
       "total": 62103,
@@ -1581,10 +1712,11 @@
       "urban": 62103,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 64.64
   },
   {
-    "id": "2861011",
+    "id": "2861",
     "name": "Elbląg",
     "population": {
       "total": 121046,
@@ -1593,10 +1725,11 @@
       "urban": 121046,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 79.82
   },
   {
-    "id": "2862011",
+    "id": "2862",
     "name": "Olsztyn",
     "population": {
       "total": 172970,
@@ -1605,10 +1738,11 @@
       "urban": 172970,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 88.33
   },
   {
-    "id": "3061011",
+    "id": "3061",
     "name": "Kalisz",
     "population": {
       "total": 101902,
@@ -1617,10 +1751,11 @@
       "urban": 101902,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 69.42
   },
   {
-    "id": "3062011",
+    "id": "3062",
     "name": "Konin",
     "population": {
       "total": 75077,
@@ -1629,10 +1764,11 @@
       "urban": 75077,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 82.2
   },
   {
-    "id": "3063011",
+    "id": "3063",
     "name": "Leszno",
     "population": {
       "total": 64090,
@@ -1641,10 +1777,11 @@
       "urban": 64090,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 31.86
   },
   {
-    "id": "3064011",
+    "id": "3064",
     "name": "Poznań",
     "population": {
       "total": 539549,
@@ -1653,10 +1790,11 @@
       "urban": 539549,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 261.91
   },
   {
-    "id": "3261011",
+    "id": "3261",
     "name": "Koszalin",
     "population": {
       "total": 107758,
@@ -1665,10 +1803,11 @@
       "urban": 107758,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 98.34
   },
   {
-    "id": "3262011",
+    "id": "3262",
     "name": "Szczecin",
     "population": {
       "total": 404403,
@@ -1677,10 +1816,11 @@
       "urban": 404403,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 300.56
   },
   {
-    "id": "3263011",
+    "id": "3263",
     "name": "Świnoujście",
     "population": {
       "total": 41027,
@@ -1689,6 +1829,7 @@
       "urban": 41027,
       "rural": 0
     },
-    "city": true
+    "city": true,
+    "area": 197.23
   }
 ]
